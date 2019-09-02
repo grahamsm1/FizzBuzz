@@ -3,6 +3,11 @@
 Spyder Editor
 
 This is a temporary script file.
+
+This script helps children with multiplication. It lists the numbers between 1 and 100, 
+if the number is divisible by 3 it will instead say fizz, 
+if divisible by 5 it will say buzz, if divisible by 3 and 5 it will say fizzbuzz
+
 """
 for x in range (1,101):
     
